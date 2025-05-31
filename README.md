@@ -1,1 +1,1 @@
-# -ghi-ch-c-th-l-c-L-i-d-li-u-v-l-m-t-ph-n-c-a-K-t-th-c-l-u-tr-kh-ng-mong-mu-n-.
+Vấn đề là tệp Spigot-1.21.5.jar được giải nén được ghi chú cụ thể là có "Lỗi dữ liệu" và là một phần của "Kết thúc lưu trữ không mong muốn".
